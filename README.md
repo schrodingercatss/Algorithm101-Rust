@@ -18,6 +18,6 @@ Some Algorithm Solution by Rust.
 | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array) | 模拟、哈希 | [Leetcode697](Leetcode/Leetcode697.数组的度.md)              |
 | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array) | 模拟、哈希 | [Leetcode448](Leetcode/Leetcode448.找到所有数组中消失的数字.md) |
 | [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array) | 模拟、哈希 | [Leetcode442](Leetcode/Leetcode442.数组中重复的数据.md)      |
-| [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) | 模拟、哈希 | [Leetcode41](Leetcode41.缺失的第一个正数.md)                 |
+| [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) | 模拟、哈希 | [Leetcode41](Leetcode/Leetcode41.缺失的第一个正数.md)                 |
 | [274. H 指数](https://leetcode-cn.com/problems/h-index/)     |            |                                                              |
 
